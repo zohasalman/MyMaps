@@ -133,6 +133,7 @@ class MainActivity : AppCompatActivity() {
                 Log.i(TAG, "onActivityResult with new map title ${userMap.title}")
                 userMaps.add(userMap)
                 mapAdapter.notifyItemInserted(userMaps.size - 1)
+                mapAdapter.notifyDataSetChanged()
                 serializeUserMaps(this, userMaps)
         }
         super.onActivityResult(requestCode, resultCode, data)
