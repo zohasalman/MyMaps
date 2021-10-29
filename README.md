@@ -22,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/KKWVKwb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KKWVKwb"  ><a href="//imgur.com/a/KKWVKwb">MyMap</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
