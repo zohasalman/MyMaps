@@ -4,7 +4,7 @@
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Functionality 
 
@@ -22,7 +22,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/aXTWrjl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/aXTWrjl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
